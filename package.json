@@ -6,9 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@types/uuid": "^10.0.0",
     "next": "canary",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@types/node": "^22",
